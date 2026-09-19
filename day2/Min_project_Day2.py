@@ -1,4 +1,3 @@
-
 print("----- Student Result -----")
 Name = input("Enter name:")
 marks = int(input("Enter your marks:"))
