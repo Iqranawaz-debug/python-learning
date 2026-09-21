@@ -1,0 +1,5 @@
+Python
+SQL
+PowerBI
+Git
+Data engineering
