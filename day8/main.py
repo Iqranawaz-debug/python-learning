@@ -1,0 +1,2 @@
+import game_functions
+game_functions.check_guess()
